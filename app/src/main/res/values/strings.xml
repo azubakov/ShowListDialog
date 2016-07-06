@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShowListDialog</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+
+    <array name="Toppings">
+        <item>Lattice</item>
+        <item>Tomatoes</item>
+        <item>Onions</item>
+        <item>Maio</item>
+        <item>Ketshup</item>
+        <item>Extra Spice</item>
+    </array>
+
+
+
+</resources>
